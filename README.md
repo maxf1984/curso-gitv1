@@ -1,8 +1,8 @@
-# Título do meu README
+# Título do meu PROBLEMA
 
 Aqui neste arquivo README teremos as informações relativas ao nosso projeto.
 
-## Subtítulo do README
+## Subtítulo do Resolvendo conflito
 
 - Tópico 1
   tititi
